@@ -1,0 +1,6 @@
+{
+    "name": "example",
+    "steps": [
+        { "action": "goto", "url": "https://nghttp2.org" }
+    ]
+}
